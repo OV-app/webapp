@@ -22,7 +22,7 @@ Voor aanvragen of ondersteuning voor web-based toegang of API-integratie, neem c
 ![Ticket Aankoop](./Buy_Tickets.png)
 
 ### 🏠 Homepagina
-![Home](./home_page.png)
+![Home](https://raw.githubusercontent.com/OV-app/webapp/refs/heads/main/img/home_page.png)
 
 ### 🚴 Huurfietsen
 ![Bike Rentals](./bike_page.png)
