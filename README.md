@@ -19,22 +19,22 @@ Voor aanvragen of ondersteuning voor web-based toegang of API-integratie, neem c
 ## 📸 Voorbeeld Screenshots
 
 ### 🎫 Ticket Aankoop
-![Ticket Aankoop](./Buy_Tickets.png)
+![Ticket Aankoop](https://raw.githubusercontent.com/OV-app/webapp/refs/heads/main/img/Buy_Tickets.png)
 
 ### 🏠 Homepagina
 ![Home](https://raw.githubusercontent.com/OV-app/webapp/refs/heads/main/img/home_page.png)
 
 ### 🚴 Huurfietsen
-![Bike Rentals](./bike_page.png)
+![Bike Rentals](https://raw.githubusercontent.com/OV-app/webapp/refs/heads/main/img/bike_page.png)
 
 ### 📊 Dashboard
-![Dashboard](./dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/OV-app/webapp/refs/heads/main/img/dashboard.png)
 
 ### 🎢 Ritoverzicht
-![Rides](./rides.png)
+![Rides](https://raw.githubusercontent.com/OV-app/webapp/refs/heads/main/img/rides.png)
 
 ### 💰 Prijzen
-![Prijzen](./prijzen.png)
+![Prijzen](https://raw.githubusercontent.com/OV-app/webapp/refs/heads/main/img/prijzen.png)
 
 ---
 
