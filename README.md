@@ -42,7 +42,7 @@ Voor aanvragen of ondersteuning voor web-based toegang of API-integratie, neem c
 
 1. **Clone de repository:**
    ```sh
-   git clone https://github.com/jouwrepo/ovapp.git
+   git clone https://github.com/OV-app/webapp
    cd ovapp
    ```
 
